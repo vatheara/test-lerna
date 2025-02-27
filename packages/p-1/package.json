@@ -1,0 +1,19 @@
+{
+  "name": "p-1",
+  "version": "0.1.0",
+  "description": "> TODO: description",
+  "author": "vatheara <theara2048@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/p-1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/p-1.test.js"
+  }
+}
